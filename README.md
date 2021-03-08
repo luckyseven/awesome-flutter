@@ -147,6 +147,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Dough](https://github.com/HatFeather/flutter_dough) [190⭐] - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 - [Card Settings](https://github.com/codegrue/card_settings) [223⭐] - package for building settings forms by [codegrue](https://github.com/codegrue).
 - [Timelines](https://github.com/chulwoo-park/timelines) [165⭐] - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
+- [Avatars](https://github.com/luckyseven/avatars) - Customizable avatar widget with a priority system which allows you to specify multiple sources [Alberto Fecchi](https://github.com/luckyseven).
 
 #### Sticky Headers
 
